@@ -64,7 +64,7 @@ fun LoginScreen(modifier: Modifier = Modifier, navController: NavController) {
                 if (usuario == "admin" && senha == "123456") {
                     navController.navigate("menu")
                 } else {
-                    mensagemErro = "Usuário inválido na tela."
+                    mensagemErro = "Usuário inválido"
                 }
             },
             colors = ButtonDefaults.buttonColors(Color.White),
@@ -82,7 +82,7 @@ fun LoginScreen(modifier: Modifier = Modifier, navController: NavController) {
         if (mensagemErro.isNotEmpty()) {
             Text(
                 text = mensagemErro,
-                color = Color.Red,
+                color = Color.White,
                 fontWeight = FontWeight.Bold
             )
         }
