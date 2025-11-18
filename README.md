@@ -47,3 +47,5 @@ Tela simples que exibe os nomes dos integrantes da equipe e um botão para retor
 * Jetpack Compose
 * Navigation Compose (para a navegação entre telas)
 * Android Studio
+
+### Github: https://github.com/isabellaagm/globalsolution-kotlin
