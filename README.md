@@ -37,7 +37,7 @@ Tela para cálculo de IMC que inclui um novo campo "Seu nome" e exibe o resultad
 ### 4. Tela de Equipe
 Tela simples que exibe os nomes dos integrantes da equipe e um botão para retornar ao Menu.
 
-![Tela de Equipe](./prints/Equipe)
+![Tela de Equipe](./prints/Equipe.png)
 
 ---
 
